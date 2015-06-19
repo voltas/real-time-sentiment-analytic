@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>real-time-sentiment-analytics</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+		<buildCommand>
+			<name>org.eclipse.m2e.core.maven2Builder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+		<nature>org.eclipse.m2e.core.maven2Nature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>src/main/resources/AFINN-111.txt</name>
+			<type>1</type>
+			<location>C:/Users/saurabh/workspace/real-time-sentiment-analytics/resources/AFINN-111.txt</location>
+		</link>
+		<link>
+			<name>src/main/resources/config.properties</name>
+			<type>1</type>
+			<location>C:/Users/saurabh/workspace/real-time-sentiment-analytics/resources/config.properties</location>
+		</link>
+		<link>
+			<name>src/main/resources/logback.xml</name>
+			<type>1</type>
+			<location>C:/Users/saurabh/workspace/real-time-sentiment-analytics/resources/logback.xml</location>
+		</link>
+	</linkedResources>
+</projectDescription>
